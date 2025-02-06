@@ -1,7 +1,9 @@
 import sys
 import os
+
 oop_project_path = "/Users/aspen/PycharmProjects/OOP"
 sys.path.append(oop_project_path)
+
 from app.subtraction import subtract
 
 def test_subtraction():
