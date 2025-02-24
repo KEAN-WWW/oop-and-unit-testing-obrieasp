@@ -2,8 +2,6 @@
 Test cases for the multiplication functionality.
 """
 
-import pytest
-
 from app.multiply import multiply
 
 def test_multiplication():

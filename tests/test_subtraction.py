@@ -2,8 +2,6 @@
 Test cases for the subtraction functionality.
 """
 
-import pytest
-
 from app.subtraction import subtract
 
 def test_subtraction():

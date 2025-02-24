@@ -3,7 +3,6 @@ Test cases for the division functionality.
 """
 
 import pytest
-
 from app.divide import divide
 
 def test_division():

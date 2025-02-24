@@ -1,7 +1,6 @@
 """
 Test cases for the addition functionality.
 """
-import pytest
 
 from app.addition import add
 
