@@ -1,6 +1,7 @@
 """
 Test cases for the multiplication functionality.
 """
+
 from app.multiply import multiply
 
 def test_multiplication():

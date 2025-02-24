@@ -1,6 +1,7 @@
 """
 Test cases for the addition functionality.
 """
+
 from app.addition import add
 
 def test_addition():
