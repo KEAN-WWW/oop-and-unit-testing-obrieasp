@@ -2,9 +2,6 @@ import pytest
 import sys
 import os
 
-oop_project_path = "/Users/aspen/PycharmProjects/OOP"
-sys.path.append(oop_project_path)
-
 from app.divide import divide
 
 def test_division():
