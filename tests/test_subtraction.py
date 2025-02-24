@@ -1,7 +1,6 @@
 """
 Test cases for the subtraction functionality.
 """
-
 from app.subtraction import subtract
 
 def test_subtraction():
